@@ -32,7 +32,7 @@ To build (using CMake):
 Licenses
 ------------------
 
-== M3 License ==
+* M3 License
 
 ------------------------------------------------------------------------
                                                                   
@@ -55,7 +55,7 @@ Licenses
  RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS    
  DERIVATIVES.                                                       
                                                                     
-== GiST License ==
+* GiST License
 
 This implementation of the M-Tree data structure is based on the
 Generalized Search Tree (GiST) template library from UC Berkeley by
