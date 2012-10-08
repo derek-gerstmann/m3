@@ -23,11 +23,11 @@ Compiling
 
 To build (using CMake):
 
-> git clone git://github.com/voidcycles/m3.git
-> mkdir build
-> cd build
-> ccmake ..
-> make
+	> git clone git://github.com/voidcycles/m3.git
+	> mkdir build
+	> cd build
+	> ccmake ..
+	> make
 
 Licenses
 ------------------
